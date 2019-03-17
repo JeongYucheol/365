@@ -2994,3 +2994,30 @@ footer h4.h05::after {
     display: none;
   }
 }
+
+/* -- 새롭게 추가 :: 정유철 --- */
+
+.flick{
+font-size: 4rem;
+-webkit-animation: flicka 1s ease infinite;
+animation: flicka 1s ease infinite;
+}
+
+/* flick animation */
+@-webkit-keyframes flicka {
+0%{
+  -webkit-opacity: 0;
+}
+100% {
+  -webkit-opacity: 1;
+}
+
+}
+@keyframes flicka {
+  0%{
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
