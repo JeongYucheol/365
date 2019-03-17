@@ -64,7 +64,7 @@ html, body {
 
 body {
   background: #111111;
-  font-family: "librebaskerville-regular", serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.6rem;
   line-height: 3rem;
   color: #353535;
@@ -95,7 +95,7 @@ a:hover, a:focus {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6,
 .h01, .h02, .h03, .h04, .h05, .h06 {
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: #151515;
   font-style: normal;
   text-rendering: optimizeLegibility;
@@ -156,7 +156,7 @@ p img {
 }
 
 p.lead {
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 2rem;
   line-height: 1.8;
   color: #4f4f4f;
@@ -176,11 +176,11 @@ em, i, strong, b {
 }
 
 em, i {
-  font-family: "librebaskerville-italic", serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 strong, b {
-  font-family: "librebaskerville-bold", serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 small {
@@ -207,7 +207,7 @@ blockquote:before {
 }
 
 blockquote p {
-  font-family: "librebaskerville-italic", georgia, serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-style: italic;
   padding: 0;
   font-size: 1.9rem;
@@ -232,7 +232,7 @@ blockquote cite a:visited {
 }
 
 abbr {
-  font-family: "librebaskerville-bold", serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-variant: small-caps;
   text-transform: lowercase;
   letter-spacing: .05rem;
@@ -240,7 +240,7 @@ abbr {
 }
 
 var, kbd, samp, code, pre {
-  font-family: Consolas, "Andale Mono", Courier, "Courier New", monospace;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 pre {
@@ -421,7 +421,7 @@ table {
   border-width: 0;
   width: 100%;
   max-width: 100%;
-  font-family: "librebaskerville-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 th,
@@ -433,7 +433,7 @@ td {
 
 th {
   color: #151515;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 td {
@@ -471,7 +471,7 @@ td:last-child {
 }
 
 .pace .pace-progress {
-  background: #f9a828;
+  background: #9500ff;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -510,7 +510,7 @@ td:last-child {
   margin-left: -30px;
   margin-top: -30px;
   padding: 0;
-  background-color: #f9a828;
+  background-color: #9500ff;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -562,7 +562,7 @@ select {
   outline: none;
   vertical-align: middle;
   color: #444444;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   line-height: 3rem;
   max-width: 100%;
@@ -636,7 +636,7 @@ select:focus {
 }
 
 label, legend {
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   margin-bottom: .6rem;
   color: #020202;
@@ -651,7 +651,7 @@ input[type="radio"] {
 label > .label-text {
   display: inline-block;
   margin-left: 1rem;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   line-height: inherit;
 }
 
@@ -717,7 +717,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   display: inline-block;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
@@ -836,7 +836,7 @@ input::-moz-focus-inner {
   position: relative;
   margin-bottom: 3rem;
   border-radius: 3px;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.5rem;
 }
 .alert-box .close {
@@ -876,7 +876,7 @@ input::-moz-focus-inner {
   margin: 0;
   padding: 1.5rem .6rem 0 0;
   font-size: 8.4rem;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   line-height: 6rem;
   text-indent: 0;
   background: transparent;
@@ -993,7 +993,7 @@ input::-moz-focus-inner {
 .stats-tabs li a {
   display: inline-block;
   font-size: 2.5rem;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   border: none;
   color: #252525;
 }
@@ -1004,7 +1004,7 @@ input::-moz-focus-inner {
   display: block;
   margin: .6rem 0 0 0;
   font-size: 1.4rem;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: #4f4f4f;
 }
 
@@ -1028,7 +1028,7 @@ input::-moz-focus-inner {
   position: absolute;
   left: 0;
   top: -3rem;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: #313131;
   text-transform: uppercase;
   letter-spacing: .2rem;
@@ -1045,7 +1045,7 @@ input::-moz-focus-inner {
   right: 0;
   top: -3.6rem;
   display: block;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: white;
   font-size: 1.1rem;
   line-height: 1;
@@ -1134,22 +1134,22 @@ input::-moz-focus-inner {
   margin-bottom: 1.5rem;
 }
 .section-intro h1 {
-  font-family: "librebaskerville-bold", serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 4.8rem;
   line-height: 1.375;
   color: #151515;
 }
 .section-intro h3 {
-  font-family: "montserrat-bold", sans-serif;
-  font-size: 1.8 rem;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 2 rem;
   line-height: 1.667;
-  color: rgba(242, 242, 242, 0.5);
+  color: rgba(255, 255, 255, 0.5);
   text-transform: uppercase;
   letter-spacing: .3rem;
   margin-bottom: 1.2rem;
 }
 .section-intro .lead {
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.8;
   line-height: 1.833;
 }
@@ -1285,7 +1285,7 @@ header .header-logo a {
   height: 42px;
   width: 42px;
   line-height: 42px;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .2rem;
@@ -1381,13 +1381,13 @@ header .header-logo a {
 }
 #menu-nav-wrap h3 {
   color: white;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 2rem;
   line-height: 1.5;
   margin-bottom: 1.5rem;
 }
 #menu-nav-wrap .nav-list {
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   margin: 3.6rem 0 1.5rem 0;
   padding: 0 0 1.8rem 0;
   list-style: none;
@@ -1466,7 +1466,7 @@ header .header-logo a {
   transform: rotate(45deg);
 }
 #menu-nav-wrap .sponsor-text {
-  font-family: "librebaskerville-regular", serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   line-height: 3rem;
 }
@@ -1548,7 +1548,7 @@ header .header-logo a {
   padding-bottom: 15rem;
 }
 .home-content-tablecell h3 {
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 2.2rem;
   color: white;
   text-transform: uppercase;
@@ -1631,7 +1631,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 
 .scroll-icon {
   display: inline-block;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
@@ -1790,7 +1790,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: #07617d;
 }
 #about h3 {
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.8rem;
   line-height: 1.667;
   color: #07617d;
@@ -1807,7 +1807,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   margin: 0 auto 2.4rem;
 }
 #about .lead {
-  font-family: "librebaskerville-bold", serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 4rem;
   line-height: 1.8;
   color: #2e383f;
@@ -2082,7 +2082,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 .bricks-wrapper .item-wrap .overlay::after {
   content: "...";
-  font-family: georgia, serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 3rem;
   z-index: 1;
   display: block;
@@ -2121,7 +2121,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   line-height: 1.364;
 }
 .bricks-wrapper .item-wrap .item-text .folio-types {
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5rem;
   text-transform: uppercase;
@@ -2213,13 +2213,13 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 
 .lg-sub-html h4 {
   color: #FFFFFF;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.8rem;
   line-height: 1.333;
 }
 
 .lg-sub-html p {
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.3rem;
   line-height: 2.4rem;
   margin: .6rem 0 0;
@@ -2235,7 +2235,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 
 #lg-counter {
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 /* -------------------------------------------------------------------
@@ -2270,7 +2270,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   text-align: center;
 }
 #testimonials h2 {
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.8rem;
   line-height: 1.667;
   color: #07617d;
@@ -2294,14 +2294,14 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   padding-bottom: 3rem;
 }
 #testimonial-slider p {
-  font-family: "librebaskerville-bold", serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 3rem;
   line-height: 1.8;
   color: #151515;
 }
 #testimonial-slider p::before, #testimonial-slider p::after {
   display: inline-block;
-  font-family: "librebaskerville-bold", serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 3.6rem;
   line-height: 1;
 }
@@ -2326,7 +2326,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   display: inline-block;
   vertical-align: middle;
   text-align: center;
-  font-family: "librebaskerville-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 2rem;
   margin-top: .9rem;
   margin-bottom: 3rem;
@@ -2334,7 +2334,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #testimonial-slider .testimonial-author .author-info span {
   display: block;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.6rem;
   line-height: 1.313;
   letter-spacing: 0;
@@ -2455,7 +2455,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #clients .owl-carousel .owl-nav [class*='owl-'] {
   color: #FFFFFF;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   height: 3rem;
   line-height: 3rem;
@@ -2574,7 +2574,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   clear: both;
 }
 #contact form .form-field label {
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   line-height: 1.4;
   position: absolute;
@@ -2689,7 +2689,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #submit-loader .text-loader {
   display: none;
-  font-family: "montserrat-bold", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   color: #FFFFFF;
   letter-spacing: .2rem;
@@ -2891,7 +2891,7 @@ footer h4.h05::after {
 }
 .footer-main #mc-form label {
   color: #f9a828;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 /* footer bottom
@@ -2899,7 +2899,7 @@ footer h4.h05::after {
 .footer-bottom {
   margin-top: 3rem;
   text-align: center;
-  font-family: "montserrat-regular", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
 }
 .footer-bottom .copyright span {
@@ -2998,7 +2998,7 @@ footer h4.h05::after {
 /* -- 새롭게 추가 :: 정유철 --- */
 
 .flick{
-font-size: 4rem;
+font-size: 3rem;
 -webkit-animation: flicka 1s ease infinite;
 animation: flicka 1s ease infinite;
 }
