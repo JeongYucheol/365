@@ -2,10 +2,23 @@
  * fonts.scss)
  *
  * ------------------------------------------------------------------- */
- 
+
 /*
- * Libre Baskerville 
+ * Libre Baskerville
 ================================================================================ */
+@font-face {
+  font-family: 'Noto Sans', sans-serif;
+  src: url("https://fonts.googleapis.com/css?family=Noto+Sans");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family:'Noto Sans KR', sans-serif;
+  src: url("https://fonts.googleapis.com/css?family=Noto+Sans+KR");
+  font-style: normal;
+  font-weight: normal;
+}
+
 @font-face {
   font-family: "librebaskerville-regular";
   src: url("../fonts/librebaskerville/librebaskerville-regular-webfont.woff2") format("woff2"), url("../fonts/librebaskerville/librebaskerville-regular-webfont.woff") format("woff");

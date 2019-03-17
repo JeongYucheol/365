@@ -1260,10 +1260,10 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 57px;
+  width: 100px;
   height: 27px;
   background: url("../images/logo.svg") no-repeat center;
-  background-size: 57px 27px;
+  background-size: 100px 27px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1556,7 +1556,8 @@ header .header-logo a {
   margin: 0 0 .9rem 0;
 }
 .home-content-tablecell h1 {
-  font-family: "montserrat-bold", serif;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 100;
   font-size: 9rem;
   line-height: 1.133;
   color: #FFFFFF;
