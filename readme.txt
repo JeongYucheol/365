@@ -1,127 +1,196 @@
-==================================================================================================
+=== Rife Free ===
+Contributors: air-1
+Tags: e-commerce, portfolio, photography, two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, translation-ready, sticky-post, post-formats, custom-colors, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, rtl-language-support
+Requires at least: 4.7
+Tested up to: 5.0
+Requires PHP: 5.3.0
+Stable tag: trunk
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-DESCRIPTION:
-
-INFINITY is a clean, modern and well crafted responsive template designed for creatives and agencies. 
-The template suits the needs of creative agencies, freelancers, and even small business websites. 
-Infinity is mobile and retina/hi-dpi ready which means your site will look awesome, crisp and sharp 
-on any screen resolutions and devices. Also, the code behind infinity is clean and well organized 
-which makes the template very easy to customize.
-
-==================================================================================================
-
-
-LICENSE:
-
-
-INFINITY is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
-
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
-
-Under the following conditions:
-
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since INIFINITY is distributed for free, support is not offered. INFINITY is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(http://www.styleshout.com/)
+Website: https://apollo13themes.com/
+Support: https://rifetheme.com/help/docs/getting-started/support-forum/
+Documentation: https://rifetheme.com/help/
+Email: info@apollo13themes.com
 
 
 
--------------------------------------------------------------------------------------------------------
+== Description ==
 
 
-SOURCES AND CREDITS:
+Rife Free is a great portfolio and photography WP theme with 5 ready-to-use demo layouts.
 
-I've used the following resources as listed.
+It is also perfect for business, blogging websites and for your shop because it is WooCommerce compatible.
 
-Fonts:
- - Montserrat Font (https://www.google.com/fonts/specimen/Montserrat)
- - Libre Baskerville Font (https://fonts.google.com/specimen/Libre+Baskerville) 
+More cool features in the Rife theme are the:
 
-Icons:
- - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
- - Micons Free Icons (http://geticonjar.com/freebies/231-micons/)
- - Webfont generated by ICOMOON (https://icomoon.io/)
+* Responsive layout.
+* Mobile/Touch Friendly Image & Video Slider.
+* Writing Effect.
+* One Page Mode.
+* Sticky header variant.
+* Social Links.
+* Bricks Gallery for Photographers.
+* Mega Menu.
+* Hidden Sidebar.
+* Post Grid.
+* Cool Animations.
+* Page preloader.
+* Over 450 options to change in the Customizer and much more in each page, post, album or work.
+* Translation ready.
+* Google Fonts.
+* many more.
 
-Stock Photos and Graphics:
- - Pexels.com (https://www.pexels.com/)
- - Picjumbo.com (https://picjumbo.com/)
- - RawPixels.com (https://www.rawpixel.com/)
- 
-Javascript Files:
+We also integrate Schema.org which helps your website be more visible to search engines. Elementor compatibility will help you make your great website even more natural. The theme is RTL and translation-ready (WPML). &#9733; Check our demos for more details: https://apollo13themes.com/rife/designs/
 
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Waypoints (http://imakewebthings.com/jquery-waypoints/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - FitVids (http://fitvidsjs.com/)
- - pace js (http://github.hubspot.com/pace/)
- - LightGallery (http://sachinchoolur.github.io/lightGallery/) 
- - Masonry (http://masonry.desandro.com/)
- - ImagesLoaded (http://masonry.desandro.com/)
- - jQueryValidation (https://jqueryvalidation.org/)
- - ajaxChimp (https://github.com/scdoshi/jquery-ajaxchimp)
+Read more about [Rife Free WordPress Theme on its official website](https://apollo13themes.com/rife/free/).
+
+[Full documentation for Rife Free WordPress Theme is available here.](https://rifetheme.com/help/)
 
 
 
--------------------------------------------------------------------------------------------------------
+== Installation ==
+
+1. In your admin panel, go to Appearance > Themes and click the Add New button.
+2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
+3. Click Activate to use your new theme right away.
+
+
+== Changelog ==
+
+[Changelog can be found here.](https://www.apollo13.eu/themes_update/apollo13_framework_theme/index.html#change-log)
+
+
+== Rife Free Child Theme ==
+
+We have prepared starter child theme for you to use with Rife Free WordPress Theme. You can use it for overwriting of functions, templates and styles.
+Read more [about our starter child theme in theme documentation](http://rifetheme.com/help/docs/installation-updating/installing-the-rife-child-theme/)
+
+You can [download Rife Free child theme](https://apollo13themes.com/download/rife-free-child-theme/?wpdmdl=13451) form our site.
+
+
+
+== Collected data ==
+
+While using Design importer feature some data will be stored on our server. These are:
+* Date of action,
+* your site URL,
+* IP address,
+* Imported Design name
+
+All these data is used for statistic and for protection against abuse of our services. These data is not shared with any third party.
+
+
+
+== Rife Free License ==
+Rife Free WordPress Theme, Copyright 2018 Apollo13Themes
+Rife Free is distributed under the terms of the GNU GPL
+
+
+== Credits & Copyright ==
+
+Rife Free WordPress Theme bundles the following third-party resources:
+
+= jQuery Wheel Color Picker, Copyright (c) 2011-2018 Fajar Chandra =
+Licenses: MIT
+Source: https://raffer.one/projects/jquery-wheelcolorpicker
+
+= lightgallery, Copyright (c) 2018 Sachin N =
+Licenses: GPLv3
+Source: http://sachinchoolur.github.io/lightGallery/
+
+= Alpha Color Picker Customizer Control, Copyright (c) 2015 BraadMartin =
+Licenses: GPL
+Source: https://github.com/BraadMartin/components/tree/master/customizer/alpha-color-picker
+
+= Isotope, Copyright (c) 2010-2018 Metafizzy =
+Licenses: GPLv3 for open source use or Isotope Commercial License for commercial use
+Source: https://isotope.metafizzy.co
+
+= The Final Countdown for jQuery, Copyright (c) 2016 Edson Hilios =
+Licenses: MIT
+Source: http://hilios.github.io/jQuery.countdown/
+
+= jQuery countTo Plugin, Copyright (c) 2012-2014 Matt Huggins =
+Licenses: MIT
+Source: https://github.com/mhuggins/jquery-countTo/
+
+= FitText.js, Copyright (c) 2011 Dave Rupert =
+Licenses: WTFPL
+Source: http://fittextjs.com/
+
+= FitVids, Copyright (c) 2013 Chris Coyier & Dave Rupert =
+Licenses: WTFPL
+Source: http://fitvidsjs.com/
+
+= fullPage, Copyright (c) 2015 Alvaro Trigo =
+Licenses: MIT
+Source: https://github.com/alvarotrigo/fullPage.js
+
+= jQuery Mousewheel, Copyright jQuery Foundation and other contributors =
+Licenses: MIT
+Source: https://github.com/jquery/jquery-mousewheel
+
+= SlidesJS, Copyright 2013 Nathan Searles =
+Licenses: Apache License(http://www.apache.org/licenses/LICENSE-2.0)
+Source: http://slidesjs.com
+
+= slimScroll, Copyright 2011 Piotr Rochala =
+Licenses: Dual licensed under the MIT and GPL
+Source: https://github.com/rochal/jQuery-slimScroll
+
+= Sticky-kit, Copyright 2015 Leaf Corcoran =
+Licenses: MIT
+Source: http://leafo.net/sticky-kit/
+
+= Waypoints, Copyright 2011-2016 Caleb Troughton =
+Licenses: MIT
+Source: http://imakewebthings.com/waypoints/
+
+= Owl Carousel, Copyright 2013-2018 David Deutsch =
+Licenses: MIT
+Source: https://owlcarousel2.github.io/OwlCarousel2/
+
+= Typed.js, Copyright 2014 Matt Bold =
+Licenses: MIT
+Source: https://github.com/mattboldt/typed.js
+
+= Web Font Loader, Copyright Adobe Systems, Google =
+Licenses: Apache License(http://www.apache.org/licenses/LICENSE-2.0)
+Source: https://github.com/typekit/webfontloader
+
+= Normalize.css, 2012-2016 Nicolas Gallagher, Jonathan Neal =
+Licenses:  MIT
+Source: https://necolas.github.io/normalize.css/
+
+= Font Awesome, Copyright Adobe Dave Gandy =
+Licenses: http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+Source: http://fontawesome.io
+
+= Entypo+, Copyright 2015 Daniel Bruce =
+Licenses: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Source: http://www.entypo.com/
+
+= Feather, Copyright 2013-2017 Cole Bemis =
+Licenses: MIT
+Source: https://feathericons.com/
+
+= 60 Vicons, Copyright 2018 Victor Erixon =
+Licenses: The icons are under the "do whatever you want with them" license.(https://dribbble.com/shots/1663443-60-Vicons-Free-Icon-Set)
+Source: https://dribbble.com/shots/1663443-60-Vicons-Free-Icon-Set
+
+= Zondicons, Copyright Steve Schoger =
+Licenses: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Source: http://www.zondicons.com/
+
+= WP and PHP compatibility, Copyright Justin Tadlock =
+Licenses: GPL-2.0-or-later
+Source: https://github.com/justintadlock/exhale/blob/master/app/bootstrap-compat.php
+
+
+= Rife Free Screenshot =
+Image License: CC0 Creative Commons( https://stocksnap.io/license )
+Image Source: https://stocksnap.io/photo/LBOGQME99N
+Icons visible on screenshot: Font Awesome
+Iocns Licenses: http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+Icons Source: http://fontawesome.io
